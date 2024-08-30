@@ -1,3 +1,10 @@
+/****************************************************************************************
+*                                                                                       *
+*  Fazer um algoritmo para receber números decimais até que o usuário digite 0 e fazer  *
+*  a média aritmética desses números.                                                    *
+*                                                                                       *
+****************************************************************************************/
+
 const prompt = require('prompt-sync')();
 let sum = 0;
 let count = 0;

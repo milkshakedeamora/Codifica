@@ -29,10 +29,10 @@ function returnIMC(height,weight)
 
 let height = parseFloat(process.argv[2]);
 let weight = parseFloat(process.argv[3]);
-if(height > 2)
+if(height > 40)
     height/=100;
 
-if (isNaN(height) || isNaN(weight) ||  height < 0.4 ||  (height >= 1 && height <= 40) ||  weight < 1.5) 
+if (isNaN(height) || isNaN(weight) ||  height < 0.4 ||  height > 2.40 ||  weight < 1.5) 
     console.log("Altura ou Peso inválido.");
 
 else

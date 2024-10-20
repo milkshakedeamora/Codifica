@@ -1,0 +1,208 @@
+[
+    {
+        "id": 1,
+        "name": "Converse Batman x Chuck Taylor 80's All Star",
+        "price": "R$ 799,99",
+        "image": "https://i.ebayimg.com/images/g/K4UAAOSwl0pmcMpl/s-l400.jpg",
+        "sizes": [
+            { "size": 34, "stock": 2 },
+            { "size": 35, "stock": 3 },
+            { "size": 36, "stock": 5 },
+            { "size": 37, "stock": 4 },
+            { "size": 38, "stock": 0 },
+            { "size": 39, "stock": 1 },
+            { "size": 40, "stock": 4 },
+            { "size": 41, "stock": 3 },
+            { "size": 42, "stock": 2 }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Converse SpiderMan All Star",
+        "price": "R$ 349,99",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_783053-MLB79258795763_092024-O.webp",
+        "sizes": [
+            { "size": 34, "stock": 3 },
+            { "size": 35, "stock": 2 },
+            { "size": 36, "stock": 1 },
+            { "size": 37, "stock": 4 },
+            { "size": 38, "stock": 0 },
+            { "size": 39, "stock": 3 },
+            { "size": 40, "stock": 2 },
+            { "size": 41, "stock": 0 },
+            { "size": 42, "stock": 1 }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "All Star MM",
+        "price": "R$ 349,99",
+        "image": "https://i.pinimg.com/474x/0f/88/a8/0f88a8dd910b3ba8f2412adb33743418.jpg",
+        "sizes": [
+            { "size": 34, "stock": 4 },
+            { "size": 35, "stock": 5 },
+            { "size": 36, "stock": 6 },
+            { "size": 37, "stock": 5 },
+            { "size": 38, "stock": 4 },
+            { "size": 39, "stock": 3 },
+            { "size": 40, "stock": 2 },
+            { "size": 41, "stock": 1 },
+            { "size": 42, "stock": 2 }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Converse Batman x Chuck Taylor Signais All Star",
+        "price": "R$ 399,99",
+        "image": "https://i.ebayimg.com/images/g/32AAAOSwW4JeCNWX/s-l400.jpg",
+        "sizes": [
+            { "size": 34, "stock": 1 },
+            { "size": 35, "stock": 2 },
+            { "size": 36, "stock": 3 },
+            { "size": 37, "stock": 4 },
+            { "size": 38, "stock": 0 },
+            { "size": 39, "stock": 1 },
+            { "size": 40, "stock": 5 },
+            { "size": 41, "stock": 3 },
+            { "size": 42, "stock": 0 }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Converse Capitao America All Star",
+        "price": "R$ 489,99",
+        "image": "https://http2.mlstatic.com/D_874556-MLB69962930178_062023-C.jpg",
+        "sizes": [
+            { "size": 34, "stock": 0 },
+            { "size": 35, "stock": 1 },
+            { "size": 36, "stock": 2 },
+            { "size": 37, "stock": 3 },
+            { "size": 38, "stock": 4 },
+            { "size": 39, "stock": 5 },
+            { "size": 40, "stock": 2 },
+            { "size": 41, "stock": 1 },
+            { "size": 42, "stock": 0 }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Converse Deadpool All Star",
+        "price": "R$ 589,99",
+        "image": "https://i.etsystatic.com/15325320/r/il/641420/1264068617/il_fullxfull.1264068617_c6n8.jpg",
+        "sizes": [
+            { "size": 34, "stock": 0 },
+            { "size": 35, "stock": 1 },
+            { "size": 36, "stock": 1 },
+            { "size": 37, "stock": 2 },
+            { "size": 38, "stock": 3 },
+            { "size": 39, "stock": 4 },
+            { "size": 40, "stock": 5 },
+            { "size": 41, "stock": 3 },
+            { "size": 42, "stock": 0 }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Converse X Men Unique All Star",
+        "price": "R$ 539,99",
+        "image": "https://i.pinimg.com/736x/fc/82/9a/fc829a011ada0e41fcc3b34b9ad364a2.jpg",
+        "sizes": [
+            { "size": 34, "stock": 2 },
+            { "size": 35, "stock": 3 },
+            { "size": 36, "stock": 1 },
+            { "size": 37, "stock": 4 },
+            { "size": 38, "stock": 3 },
+            { "size": 39, "stock": 0 },
+            { "size": 40, "stock": 2 },
+            { "size": 41, "stock": 1 },
+            { "size": 42, "stock": 0 }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Converse One Pilots All Star",
+        "price": "R$ 449,99",
+        "image": "https://i.pinimg.com/474x/91/e6/c0/91e6c07521797a8f3b4d319e4998f0e3.jpg",
+        "sizes": [
+            { "size": 34, "stock": 3 },
+            { "size": 35, "stock": 4 },
+            { "size": 36, "stock": 5 },
+            { "size": 37, "stock": 2 },
+            { "size": 38, "stock": 0 },
+            { "size": 39, "stock": 1 },
+            { "size": 40, "stock": 0 },
+            { "size": 41, "stock": 2 },
+            { "size": 42, "stock": 1 }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "All Star Viuva Negra NK",
+        "price": "R$ 149,99",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_711224-MLB47441815383_092021-O.webp",
+        "sizes": [
+            { "size": 34, "stock": 7 },
+            { "size": 35, "stock": 3 },
+            { "size": 36, "stock": 0 },
+            { "size": 37, "stock": 5 },
+            { "size": 38, "stock": 1 },
+            { "size": 39, "stock": 0 },
+            { "size": 40, "stock": 1 },
+            { "size": 41, "stock": 2 },
+            { "size": 42, "stock": 3 }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Converse Tony Stark All Star",
+        "price": "R$ 799,99",
+        "image": "https://i.etsystatic.com/7516698/r/il/7137f8/2501172463/il_570xN.2501172463_b43y.jpg",
+        "sizes": [
+            { "size": 34, "stock": 0 },
+            { "size": 35, "stock": 2 },
+            { "size": 36, "stock": 1 },
+            { "size": 37, "stock": 3 },
+            { "size": 38, "stock": 0 },
+            { "size": 39, "stock": 0 },
+            { "size": 40, "stock": 2 },
+            { "size": 41, "stock": 1 },
+            { "size": 42, "stock": 0 }
+        ]
+    },
+
+      {
+        "id": 11,
+        "name": "Converse All Star Bianca",
+        "price": "R$ 389,99",
+        "image": "https://img.irroba.com.br/fit-in/600x800/filters:fill(transparent):quality(80)/biaaguil/catalog/all-star/estudio/dsc-3751-2.png",
+        "sizes": [
+            { "size": 34, "stock": 2 },
+            { "size": 35, "stock": 2 },
+            { "size": 36, "stock": 1 },
+            { "size": 37, "stock": 3 },
+            { "size": 38, "stock": 4 },
+            { "size": 39, "stock": 5 },
+            { "size": 40, "stock": 2 },
+            { "size": 41, "stock": 1 },
+            { "size": 42, "stock": 5 }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Converse Avengers All Star",
+        "price": "R$ 279,99",
+        "image": "https://i.pinimg.com/736x/9f/14/1b/9f141bcadcc936a7c339481c6468918d.jpg",
+        "sizes": [
+            { "size": 34, "stock": 0 },
+            { "size": 35, "stock": 0 },
+            { "size": 36, "stock": 1 },
+            { "size": 37, "stock": 0 },
+            { "size": 38, "stock": 0 },
+            { "size": 39, "stock": 1 },
+            { "size": 40, "stock": 0 },
+            { "size": 41, "stock": 1 },
+            { "size": 42, "stock": 0 }
+        ]
+      }
+  ]
+  

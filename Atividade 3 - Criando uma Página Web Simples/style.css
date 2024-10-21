@@ -1,0 +1,163 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header ul {
+    list-style: none;
+    padding: 0;
+}
+
+header li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header a:hover {
+    color: #ff9800;
+}
+
+.container {
+    display: flex;
+    margin: 20px;
+}
+
+.primeira-secao {
+    display: flex;
+    align-items: center; 
+    margin-bottom: 20px;
+}
+
+.primeira-secao div {
+    display: flex;
+    flex-direction: column; 
+    max-width: 60%; 
+}
+
+.primeira-secao img {
+    border-radius: 50%; 
+    width: 200px; 
+    height: 200px; 
+    margin-left: 20px; 
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    flex: 70%;
+    margin-right: 20px;
+}
+
+section h2 {
+    font-weight: 700;
+}
+
+section p {
+    line-height: 1.6;
+}
+
+section img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+#around {
+    border-radius: 50%; 
+    width: 100px; 
+    height: 100px; 
+    margin: 20px;
+}
+
+aside {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    margin: 20px; 
+}
+
+aside img:first-of-type {
+    border-radius: 15px; 
+    width: 80%; 
+    max-width: 300px;
+    height: auto; 
+    margin-bottom: 10px; 
+}
+
+aside h2 {
+    margin: 0;
+    text-align: center;
+    padding: 15px;
+}
+
+aside ul {
+    list-style: none; 
+    padding: 0; 
+    text-align: center;
+}
+
+aside li {
+    margin: 10px 0; 
+}
+
+aside li img {
+    width: 50px; 
+    height: 50px; 
+    border-radius: 50%; 
+    margin-right: 10px; 
+    vertical-align: middle; 
+}
+
+aside li p {
+    display: inline-block; 
+    margin: 0;
+}
+
+aside a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+    transition: transform 0.3s ease;
+}
+
+aside a:hover {
+    transform: scale(1.05);
+}
+
+aside a:hover img {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+aside a:hover p {
+    color: #000;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}

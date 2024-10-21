@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -71,6 +72,7 @@ section h2 {
 
 section p {
     line-height: 1.6;
+    font-family: 'Afacad Flux', sans-serif; 
 }
 
 section img {
